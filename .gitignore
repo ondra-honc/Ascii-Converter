@@ -1,0 +1,49 @@
+# Visual Studio local user settings
+*.user
+*.userosv
+*.suo
+*.userprefs
+*.ncb
+*.suo.old
+
+# Visual Studio cache, database, and temporary directories
+.vs/
+*.VC.db
+*.ipch
+*.opendb
+*.sdf
+
+# Build output directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Compiled files and executables
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.ilk
+*.idb
+*.exp
+
+# CMake build outputs
+out/
+build/
+
+# Package managers
+vcpkg_installed/
+packages/

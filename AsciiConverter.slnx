@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AsciiConverter/AsciiConverter.vcxproj" Id="3391ca94-d25c-4f5a-889b-a993c705ba83" />
+</Solution>
